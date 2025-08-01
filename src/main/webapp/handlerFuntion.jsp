@@ -30,7 +30,7 @@
 		<input type="radio" name="grade" value="★☆☆☆☆">★☆☆☆☆<br>
 		<hr>
 		
-		<!-- onclick 버튼을 누르면 checkFun 함수가 실행됨 -->
+		<!-- onclick : 버튼을 누르면 checkFun 함수가 실행됨 -->
 		<input type="submit" value ="추천하기" onclick="checkFun()"> 
 		<input type="reset" value = "다시작성">
 		   
