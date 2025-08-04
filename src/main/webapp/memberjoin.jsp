@@ -18,6 +18,7 @@
 		이름 : <input type = "text" name = "mname"> <br><br>
 		이메일 : <input type = "text" name = "memail"> <br><br>
 		주소 : <input type = "text" name = "maddr"> <br><br>
+		나이 : <input type="text" name = "mage"> <br><br>
 		<input type = "button" value = "회원가입" onclick = "joinCheck()"> <br><br>
 		
 	</form>
